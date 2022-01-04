@@ -1,6 +1,6 @@
 # T5 Deep Learning Project
 
-Classification Project for SDAIA T5
+Deep Learning Project for SDAIA T5
 
 * [Project Proposal](Project_Proposal.md)
 * [MVP](MVP.md)

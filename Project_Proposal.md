@@ -14,5 +14,5 @@ Our data are collected from kaggle, and it is about 2000+ images of fine or dama
  * [Car damage](https://www.kaggle.com/mohitagarwal816/car-damage)
 
 # Tools
-* Technologies: Python, Jupyter notebook,VSCode.
+* Technologies: Python, Jupyter notebook, VSCode.
 * Libraries: Seaborn, Matplotlib, Keras, NumPy, Pandas, Sklearn, Tensorflow, Pickle.

@@ -10,4 +10,4 @@ Our data are collected from kaggle, and it is about 2000+ images of fine or dama
 
 # Tools
 * Technologies: Python, Jupyter notebook.
-* Libraries: Seaborn, Matplotlib, Pandas profiling, NumPy, Pandas, Sklearn.
+* Libraries: Seaborn, Matplotlib, Keras, NumPy, Pandas, Sklearn, Tensorflow, Pickle.

@@ -5,13 +5,14 @@ We are hoping to fillful those needs with more advanced methods using deeplearni
 
 # Goals
 * Predict if the car is damaged or not damaged to help Ministry Of Interior (MOI).
-* Detect Car damage extent of severty.
+* Report the status of the car.
 
 # Data Description
 Our data are collected from kaggle, and it is about 2000+ images of fine or damaged cars:
  * [Car damage detection](https://www.kaggle.com/anujms/car-damage-detection)
  * [Coco Car Damage Detection Dataset](https://www.kaggle.com/lplenka/coco-car-damage-detection-dataset)
  * [Car damage](https://www.kaggle.com/mohitagarwal816/car-damage)
+ * [Stanford Car Image Dataset](https://ai.stanford.edu/~jkrause/cars/car_dataset.html)
 
 # Tools
 * Technologies: Python, Jupyter notebook, VSCode.

@@ -8,10 +8,7 @@ We are hoping to fillful those needs with more advanced methods using deeplearni
 * Report the status of the car.
 
 # Data Description
-Our data are collected from kaggle, and it is about 2000+ images of fine or damaged cars:
- * [Kaggle - Car damage detection](https://www.kaggle.com/anujms/car-damage-detection)
- * [Kaggle - Coco Car Damage Detection Dataset](https://www.kaggle.com/lplenka/coco-car-damage-detection-dataset)
- * [Kaggle - Car damage](https://www.kaggle.com/mohitagarwal816/car-damage)
+Our data are collected from Stanford and Peltorion, and it is more than 17k images of fine or damaged cars:
  * [Stanford - Car Image Dataset](https://ai.stanford.edu/~jkrause/cars/car_dataset.html)
  * [Peltarion - Car damage](https://peltarion.com/knowledge-center/documentation/terms/dataset-licenses/car-damage)
 

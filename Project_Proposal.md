@@ -14,4 +14,4 @@ Our data are collected from Stanford and Peltorion, and it is more than 17k imag
 
 # Tools
 * Technologies: Python, Jupyter notebook, VSCode.
-* Libraries: Seaborn, Matplotlib, Keras, NumPy, Pandas, Sklearn, Tensorflow, Pickle.
+* Libraries: Seaborn, Matplotlib, NumPy, Pandas, Sklearn, Tensorflow, Pickle.

@@ -13,4 +13,4 @@
 
 > here a close up look to the first 10 types of prediction
 
-> In further steps, we are planning to classify the images whether to be damaged or not, and try to locate the place of damages in every car
+#### In further steps, we are planning to classify the images whether to be damaged or not, and try to locate the place of damages in every car

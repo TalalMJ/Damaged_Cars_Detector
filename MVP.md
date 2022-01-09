@@ -1,6 +1,6 @@
-# - (MVP)
+# MVP
 > In our project we are trying to analyze and detect the damages in the car body using images, hoping to build a model to assist certain entity in damaged cars capturing using deep learning methods.
-
+>
 > For a starter, we tried to use a deep learning model from [amazon aws](https://s3.amazonaws.com/deep-learning-models/image-models/imagenet_class_index.json) and with cnn architecture [vgg16](https://neurohive.io/en/popular-networks/vgg16/) to see how it predict every image, that results in producing list of occurances of every prediction.
 
 ## Figure 1

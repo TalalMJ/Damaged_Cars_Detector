@@ -5,7 +5,7 @@
 
 ## Figure 1
 <img src="https://user-images.githubusercontent.com/93079224/148692835-66a9f2e2-ba8c-4c08-8a1a-f4493da67553.jpg" alt="drawing" width="500"/>
-> #### therse are the common types of image predictions
+#### > these are the common types of image predictions
 
 ## Figure 2
 <img src="https://user-images.githubusercontent.com/93079224/148692846-736566df-fd03-4312-a9af-4585acf3a065.jpg" alt="drawing" width="500"/>

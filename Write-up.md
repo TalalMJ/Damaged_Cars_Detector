@@ -1,10 +1,11 @@
+# Damaged Cars Detector
 
 
-# Abstract
+## Abstract
 
 In our project, we wanted to develop methods using deeplearning for analyzing images of cars and detecting there body damages,but we are so determent to build a model that can be considered as an added value to any industry that is related to cars.
 
-## Design: 
+### Design: 
 
 In our project, we decided to check for car damages in three separate ways, where we first determine whether or not the car is damaged, then we move forward to locate the place of the damage(front, side, or rear) and finally we try to evaluate the severity of that damage(minor, moderate, and severe)
 * Damage check
@@ -12,14 +13,14 @@ In our project, we decided to check for car damages in three separate ways, wher
 * Damage severity check
 
 
-## Data:
+### Data:
 
 Collecting data was manually, and each check had its own dataset:
 * Damage check: 2540 damaged cars and 2540 not damaged cars
 * Damage location chech: 498 front damages, 320 side damages and 345 rear damages
 * Damage severity chech: 327 minor damages, 371 moderate damages, and 455 severe damages
 
-## Algorithms
+### Algorithms
 
 * Preprcessing:
 
@@ -43,7 +44,7 @@ Collecting data was manually, and each check had its own dataset:
   |Test      |0.9429         | 0.7634               | 0.7378                |
 
 
-# Tools 
+## Tools 
 * Pandas
 * Numpy
 * Scikit-learn
@@ -52,6 +53,6 @@ Collecting data was manually, and each check had its own dataset:
 * keras
 * Tensorflow
 
-# Communication
+## Communication
 * Discord: meeting purposes
 * Notion: task management
